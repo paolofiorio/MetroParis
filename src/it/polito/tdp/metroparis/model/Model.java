@@ -22,6 +22,7 @@ import it.polito.tdp.metroparis.db.MetroDAO;
 
 public class Model {
 	
+	//implementazione con archi pesati su github del corso (nuovo branch)---> cammini minimi
 	
 	private class EdgeTraversedGraphListener implements TraversalListener<Fermata,DefaultEdge>{
 
